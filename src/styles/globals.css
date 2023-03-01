@@ -11,7 +11,6 @@ body::-webkit-scrollbar {
   width: 5px;
 }
 body {
-  background-color: #e5eef8;
   scrollbar-width: thin;
   scrollbar-color: var(--thumbBG) var(--scrollbarBG);
 }
@@ -27,6 +26,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .wrapper {
+  background-color: #e5eef8;
   min-height: 100vh;
   display: flex;
   flex-wrap: nowrap;
