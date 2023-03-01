@@ -4,9 +4,9 @@ const CONFIG = {
     name: "LeeJunmyung",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Frontend Developer",
-    bio: "",
+    bio: "안녕하세요! 호기심 많은 개발자 이준명입니다.",
     email: "wnsaud9322.naver.com",
-    linkedin: "Leejunmyung",
+    linkedin: "이준명",
     github: "Leejunmyung",
     instagram: "",
   },
@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "myung-log",
     description: "welcome to myung-log!",
-    theme: "dark", // ['light', 'dark', 'auto']
+    theme: "light", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
