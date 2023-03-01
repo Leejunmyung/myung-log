@@ -5,12 +5,13 @@
 html {
   font-family: Pretendard, Roboto, sans-serif;
   --scrollbarBG: #ffffff00;
-  --thumbBG: #b7d4f1;
+  --thumbBG: #b8b8b8;
 }
 body::-webkit-scrollbar {
   width: 5px;
 }
 body {
+  background-color: #e5eef8;
   scrollbar-width: thin;
   scrollbar-color: var(--thumbBG) var(--scrollbarBG);
 }
