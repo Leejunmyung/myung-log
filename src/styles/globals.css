@@ -5,7 +5,7 @@
 html {
   font-family: Pretendard, Roboto, sans-serif;
   --scrollbarBG: #ffffff00;
-  --thumbBG: #DBE6F1;
+  --thumbBG: #b7d4f1;
 }
 body::-webkit-scrollbar {
   width: 5px;
