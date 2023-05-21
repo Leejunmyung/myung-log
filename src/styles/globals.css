@@ -26,7 +26,6 @@ body::-webkit-scrollbar-thumb {
 }
 
 .wrapper {
-  background-color: #e5eef8;
   min-height: 100vh;
   display: flex;
   flex-wrap: nowrap;
